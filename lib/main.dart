@@ -3,6 +3,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import 'welcome.dart';
 import 'sign_up.dart';
 import 'login.dart';
+// I Love Dogs.
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
